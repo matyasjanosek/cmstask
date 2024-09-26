@@ -1,0 +1,54 @@
+.upper{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom: 20px;
+}
+
+.lower{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.all{
+    background-color: #ffb4c3;
+    padding: 20px;
+}
+
+.one{
+    background-color: red;
+    padding: 1rem 5rem 1rem 5rem;
+}
+
+.two{
+    background-color: red;
+    padding: 1rem 5rem 1rem 5rem;
+}
+
+.three{
+    background-color: red;
+    padding: 1rem 5rem 1rem 5rem;
+}
+
+.four{
+    background-color: blue;
+    padding: 5rem 9rem 5rem 9rem;
+    margin-right: 10px;
+}
+
+.five{
+    background-color: blue;
+    padding: 5rem 9rem 5rem 9rem;
+    margin-left: 10px;
+}
+
+
+
+body{
+    font-size: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
